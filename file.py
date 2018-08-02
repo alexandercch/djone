@@ -4,3 +4,9 @@ def f1():
 def f2():
     print 'hello'
 
+def f3():
+    print 'hello'
+
+def f4():
+    print 'hello'
+
