@@ -11,3 +11,7 @@ def r1():
 
 def r2():
     print 'release 2'
+
+def r3():
+    print 'release 3'
+
