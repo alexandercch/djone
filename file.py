@@ -1,10 +1,10 @@
 def f1():
     print 'org'
-    print 'hi'
+    print 'hi five'
 
 def f2():
     print 'org'
-    print 'hello'
+    print 'hello front end'
 
 def r1():
     print 'release 1'
