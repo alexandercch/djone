@@ -22,3 +22,10 @@ def r2():
 
 def r3():
     print 'release 3'
+
+def a1():
+    print 'a'
+
+def a2():
+    print 'a'
+
